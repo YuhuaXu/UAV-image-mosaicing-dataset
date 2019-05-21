@@ -7,3 +7,5 @@ If you use the datasets in your work, please cite our paper:
 Xu Y, Ou J, He H, et al. Mosaicking of Unmanned Aerial Vehicle Imagery in the Absence of Camera Poses. Remote Sensing, 2016, 8(3): 204.
 
 linking: http://pan.baidu.com/s/1nuFHBOt
+
+<img width="600" src="https://github.com/YuhuaXu/UAV-image-mosaicing-dataset/blob/master/Fig/mosaic_res.png"/></div>
